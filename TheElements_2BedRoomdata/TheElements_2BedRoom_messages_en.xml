@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+
+  <data name="en_project_title"><![CDATA[Home]]></data>
+
+
+
+  <data name="en_pano149_title"><![CDATA[LogoTheElements]]></data>
+
+
+  <data name="en_pano10_title"><![CDATA[2BedRoom_DiningRoom]]></data>
+
+
+  <data name="en_pano11_title"><![CDATA[2BedRoom_HallWay]]></data>
+
+
+  <data name="en_pano19_title"><![CDATA[2BedRoom_MasterBedroom01]]></data>
+
+
+  <data name="en_pano12_title"><![CDATA[2BedRoom_KidsRoom]]></data>
+
+
+  <data name="en_pano13_title"><![CDATA[2BedRoom_Kitchen]]></data>
+
+
+  <data name="en_pano14_title"><![CDATA[2BedRoom_LivingRoom]]></data>
+
+
+  <data name="en_pano15_title"><![CDATA[2BedRoom_MaidArea]]></data>
+
+
+  <data name="en_pano16_title"><![CDATA[2BedRoom_MaidBedRoomm]]></data>
+
+
+  <data name="en_pano17_title"><![CDATA[2BedRoom_MaidShower]]></data>
+
+
+  <data name="en_pano18_title"><![CDATA[2BedRoom_MasterBathroom]]></data>
+
+
+  <data name="en_pano20_title"><![CDATA[2BedRoom_ShareBathroom]]></data>
+
+
+  <data name="en_pano21_title"><![CDATA[2Bedroom_Balcony]]></data>
+
+
+  <data name="en_pano22_title"><![CDATA[2Bedroom_MasterBedroom02]]></data>
+
+
+  <data name="en_pano9_title"><![CDATA[2BedRoom_Bedroom03]]></data>
+
+
+	<data name="en_spotmap535_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap536_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap537_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap538_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap539_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap540_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap541_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap542_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap543_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap544_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap545_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap546_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap547_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap548_tooltip"><![CDATA[]]></data>
+
+
+	<data name="en_project_floor_title"><![CDATA[Home]]></data>
+
+
+  <data name="en_controlBar_classiczoomInTip"><![CDATA[Zoom in]]></data>
+  <data name="en_controlBar_classiczoomOutTip"><![CDATA[Zoom out]]></data>
+  <data name="en_controlBar_classicmoveLeftTip"><![CDATA[Move left]]></data>
+  <data name="en_controlBar_classicmoveRightTip"><![CDATA[Move right]]></data>
+  <data name="en_controlBar_classicmoveUpTip"><![CDATA[Move up]]></data>
+  <data name="en_controlBar_classicmoveDownTip"><![CDATA[Move down]]></data>
+  <data name="en_controlBar_classichomeTip"><![CDATA[Home]]></data>
+  <data name="en_controlBar_classicopenFsTip"><![CDATA[Enter fullscreen]]></data>
+  <data name="en_controlBar_classiccloseFsTip"><![CDATA[Exit fullscreen]]></data>
+  <data name="en_controlBar_classicautorotateOnTip"><![CDATA[Start autorotation]]></data>
+  <data name="en_controlBar_classicautorotateOffTip"><![CDATA[Stop autorotation]]></data>
+  <data name="en_controlBar_classicautotourOnTip"><![CDATA[Start automatic tour]]></data>
+  <data name="en_controlBar_classicautotourOffTip"><![CDATA[Stop automatic tour]]></data>
+  <data name="en_controlBar_classicshowSpotsTip"><![CDATA[Show hotspots]]></data>
+  <data name="en_controlBar_classichideSpotsTip"><![CDATA[Hide hotspots]]></data>
+  <data name="en_controlBar_classicdisplayFloorplanTip"><![CDATA[Show floorplan]]></data>
+  <data name="en_controlBar_classichideFloorplanTip"><![CDATA[Hide floorplan]]></data>
+  <data name="en_controlBar_classicdisplayMapTip"><![CDATA[Show map]]></data>
+  <data name="en_controlBar_classichideMapTip"><![CDATA[Hide map]]></data>
+  <data name="en_controlBar_classicshareTip"><![CDATA[Share the tour]]></data>
+  <data name="en_controlBar_classicdisplayControlsTip"><![CDATA[Show controls]]></data>
+  <data name="en_controlBar_classichideControlsTip"><![CDATA[Hide controls]]></data>
+  <data name="en_controlBar_classicctrlmodeDragTip"><![CDATA[Change control mode]]></data>
+  <data name="en_controlBar_classicctrlmodeMoveTip"><![CDATA[Change control mode]]></data>
+  <data name="en_panotourmapskey"><![CDATA[]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</krpano>
